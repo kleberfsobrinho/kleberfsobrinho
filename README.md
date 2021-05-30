@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently studying Computer Science at UFCG
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning NodeJs, React, React Native
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kleber-sobrinho-626500206/)
