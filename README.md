@@ -15,7 +15,6 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 
 <div>
-    <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=kleberfsobrinho&&count_private=trueshow_icons=true,css&layout=compact&theme=vision-friendly-dark" />
-  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberfsobrinho&count_private=true&layout=compact&theme=vision-friendly-dark" />
-
+     <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberfsobrinho&count_private=true&layout=compact&theme=vision-friendly-dark" />
+    <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=kleberfsobrinho&&count_private=trueshow_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 </div>
